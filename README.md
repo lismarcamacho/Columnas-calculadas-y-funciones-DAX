@@ -1,4 +1,4 @@
-<img width="1440" height="900" alt="image" src="https://github.com/user-attachments/assets/7310f63c-2698-4e3a-8757-daadfc75711b" /><img width="1440" height="900" alt="image" src="https://github.com/user-attachments/assets/362a4c43-ccbf-49f8-8fbb-fb305731e83f" /># Columnas-calculadas-y-funciones-DAX
+<img width="1440" height="900" alt="image" src="https://github.com/user-attachments/assets/362a4c43-ccbf-49f8-8fbb-fb305731e83f" /># Columnas-calculadas-y-funciones-DAX
 del curos intermedio de power bi. Santander Open Academy
 
 Modelo de datos: Cursos
