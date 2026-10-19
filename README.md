@@ -6,3 +6,6 @@ Y cargamos los datos
 
 Vamos a crear las relaciones entree las tablas
 <img width="1440" height="900" alt="image" src="https://github.com/user-attachments/assets/9c77ef6f-c2c8-46ee-b7c8-9d9769474453" />
+
+materias - cursos
+<img width="1440" height="900" alt="image" src="https://github.com/user-attachments/assets/b505a271-2538-4c1f-ba3a-a83e084c61b4" />
