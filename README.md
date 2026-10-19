@@ -9,3 +9,8 @@ Vamos a crear las relaciones entree las tablas
 
 materias - cursos
 <img width="1440" height="900" alt="image" src="https://github.com/user-attachments/assets/b505a271-2538-4c1f-ba3a-a83e084c61b4" />
+<img width="1440" height="900" alt="image" src="https://github.com/user-attachments/assets/e71eac0e-e130-4f8f-b62a-e90608e323d6" />
+
+cursos - profesor
+<img width="1440" height="900" alt="image" src="https://github.com/user-attachments/assets/30f25ed0-3e1d-49f8-bb6b-991bd281ec9e" />
+<img width="1440" height="900" alt="image" src="https://github.com/user-attachments/assets/4d1ee887-2af9-4ff2-80e6-f38d8091a9b7" />
