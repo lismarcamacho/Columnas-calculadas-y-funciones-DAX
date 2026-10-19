@@ -21,3 +21,5 @@ cursos - profesor
 
 ## Agregamos una nueva columna
 <img width="1440" height="900" alt="image" src="https://github.com/user-attachments/assets/d06cae0b-ea1e-4411-acf9-0a0885118c52" />
+<img width="1440" height="900" alt="image" src="https://github.com/user-attachments/assets/fd8c8629-1bf7-472a-854a-f7f0fd04952d" />
+
