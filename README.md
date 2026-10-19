@@ -1,4 +1,4 @@
-# Columnas-calculadas-y-funciones-DAX
+<img width="1440" height="900" alt="image" src="https://github.com/user-attachments/assets/362a4c43-ccbf-49f8-8fbb-fb305731e83f" /># Columnas-calculadas-y-funciones-DAX
 del curos intermedio de power bi. Santander Open Academy
 <img width="1440" height="377" alt="WhatsApp Image 2026-10-19 at 4 19 37 PM (1)" src="https://github.com/user-attachments/assets/02e51424-cf34-4b2f-abe6-388235799580" />
 <img width="1440" height="900" alt="image" src="https://github.com/user-attachments/assets/dadca8ce-57d0-4df2-93b2-7fb9c610221d" />
@@ -19,7 +19,34 @@ cursos - profesor
 
 <img width="1440" height="900" alt="image" src="https://github.com/user-attachments/assets/62c24b30-7c06-4752-95e5-6479ed25022f" />
 
-## Agregamos una nueva columna
+## Agregamos una nueva columna para tenerla calculada
 <img width="1440" height="900" alt="image" src="https://github.com/user-attachments/assets/d06cae0b-ea1e-4411-acf9-0a0885118c52" />
+
+## Duracion curso creada
 <img width="1440" height="900" alt="image" src="https://github.com/user-attachments/assets/fd8c8629-1bf7-472a-854a-f7f0fd04952d" />
+
+## Volvemos a la tabla tcursos para agregar otra columna Calculada
+<img width="1440" height="900" alt="image" src="https://github.com/user-attachments/assets/2b3aa0f4-e1eb-4a3d-9d8a-110160c05b12" />
+
+<img width="1440" height="900" alt="image" src="https://github.com/user-attachments/assets/9ff320bf-c57d-4c38-966c-6ab8b15241d5" />
+
+y ya tenemos nuestra segunda colmuna calculada
+
+## Tercera columna calculada
+
+Volvemos a seleccionar la tabla tcursos -> nueva columna
+<img width="1440" height="900" alt="image" src="https://github.com/user-attachments/assets/9714b8e0-ef17-463a-abed-b97119a11811" />
+
+
+<img width="1440" height="900" alt="image" src="https://github.com/user-attachments/assets/728a092e-da9a-4390-b333-5611cf3a67c2" />
+
+## Y la columna beneficio
+
+<img width="1440" height="900" alt="image" src="https://github.com/user-attachments/assets/58c8d94a-3193-4fbf-b968-06fee4ae995b" />
+
+
+
+
+
+
 
