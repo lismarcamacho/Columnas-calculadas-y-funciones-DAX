@@ -18,3 +18,6 @@ cursos - profesor
 ## Y ya tenemos creado el modelo de datos
 
 <img width="1440" height="900" alt="image" src="https://github.com/user-attachments/assets/62c24b30-7c06-4752-95e5-6479ed25022f" />
+
+## Agregamos una nueva columna
+<img width="1440" height="900" alt="image" src="https://github.com/user-attachments/assets/d06cae0b-ea1e-4411-acf9-0a0885118c52" />
