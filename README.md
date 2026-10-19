@@ -14,3 +14,7 @@ materias - cursos
 cursos - profesor
 <img width="1440" height="900" alt="image" src="https://github.com/user-attachments/assets/30f25ed0-3e1d-49f8-bb6b-991bd281ec9e" />
 <img width="1440" height="900" alt="image" src="https://github.com/user-attachments/assets/4d1ee887-2af9-4ff2-80e6-f38d8091a9b7" />
+
+## y ya tenemos creado el modelo de datos
+
+<img width="1440" height="900" alt="image" src="https://github.com/user-attachments/assets/62c24b30-7c06-4752-95e5-6479ed25022f" />
