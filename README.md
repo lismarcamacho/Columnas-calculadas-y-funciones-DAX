@@ -50,7 +50,9 @@ Volvemos a seleccionar la tabla tcursos -> nueva columna
 <img width="1440" height="644" alt="WhatsApp Image 2026-10-19 at 7 50 21 PM" src="https://github.com/user-attachments/assets/da011770-ede0-492b-afb4-17218bca76fe" />
 
 
+## Columna calculada en BD CURSOS
 
+<img width="1440" height="900" alt="WhatsApp Image 2026-10-19 at 9 41 06 PM" src="https://github.com/user-attachments/assets/3833c4cd-bfbe-4537-b32b-12ee25e549ba" />
 
-
-
+## Columna calculada en BD VENTAS Y CÓDIGOS
+<img width="1440" height="900" alt="image" src="https://github.com/user-attachments/assets/1495efce-5901-41c3-a6aa-b1bed0a52cf0" />
