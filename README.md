@@ -61,3 +61,8 @@ Volvemos a seleccionar la tabla tcursos -> nueva columna
 
 ## Eliminamos esta columna del modelo
 <img width="1440" height="900" alt="image" src="https://github.com/user-attachments/assets/d68d0675-b786-48ee-9c2d-a37f7355b8a1" />
+
+## Agregamos una nueva medida
+
+<img width="1440" height="900" alt="image" src="https://github.com/user-attachments/assets/b89ba272-c883-4e66-afda-bd4aa4df5fd7" />
+
