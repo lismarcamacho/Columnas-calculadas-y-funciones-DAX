@@ -62,7 +62,13 @@ Volvemos a seleccionar la tabla tcursos -> nueva columna
 ## Eliminamos esta columna del modelo
 <img width="1440" height="900" alt="image" src="https://github.com/user-attachments/assets/d68d0675-b786-48ee-9c2d-a37f7355b8a1" />
 
+<img width="1440" height="320" alt="WhatsApp Image 2026-10-23 at 10 06 57 PM" src="https://github.com/user-attachments/assets/08363b58-1063-42ef-934d-087b62c1eaa5" />
+
+
 ## Agregamos una nueva medida
 
 <img width="1440" height="900" alt="image" src="https://github.com/user-attachments/assets/b89ba272-c883-4e66-afda-bd4aa4df5fd7" />
 
+<img width="1440" height="900" alt="image" src="https://github.com/user-attachments/assets/6234e0b6-184d-4efd-9591-44e2bbf448cd" />
+
+<img width="1440" height="900" alt="image" src="https://github.com/user-attachments/assets/143fb89e-e632-40cd-892d-038d49247048" />
