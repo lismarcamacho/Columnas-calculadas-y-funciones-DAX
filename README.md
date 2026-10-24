@@ -56,3 +56,6 @@ Volvemos a seleccionar la tabla tcursos -> nueva columna
 
 ## Columna calculada en BD VENTAS Y CÓDIGOS
 <img width="1440" height="900" alt="image" src="https://github.com/user-attachments/assets/1495efce-5901-41c3-a6aa-b1bed0a52cf0" />
+
+<img width="1440" height="900" alt="image" src="https://github.com/user-attachments/assets/5e063210-22ac-4639-ac6e-acf5c74edc9f" />
+
