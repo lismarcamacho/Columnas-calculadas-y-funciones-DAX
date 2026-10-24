@@ -59,3 +59,5 @@ Volvemos a seleccionar la tabla tcursos -> nueva columna
 
 <img width="1440" height="900" alt="image" src="https://github.com/user-attachments/assets/5e063210-22ac-4639-ac6e-acf5c74edc9f" />
 
+## Eliminamos esta columna del modelo
+<img width="1440" height="900" alt="image" src="https://github.com/user-attachments/assets/d68d0675-b786-48ee-9c2d-a37f7355b8a1" />
