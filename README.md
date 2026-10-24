@@ -72,3 +72,8 @@ Volvemos a seleccionar la tabla tcursos -> nueva columna
 <img width="1440" height="900" alt="image" src="https://github.com/user-attachments/assets/6234e0b6-184d-4efd-9591-44e2bbf448cd" />
 
 <img width="1440" height="900" alt="image" src="https://github.com/user-attachments/assets/143fb89e-e632-40cd-892d-038d49247048" />
+
+## Agregamos todas las medidas a la tabla en la vista informe
+
+<img width="1440" height="900" alt="image" src="https://github.com/user-attachments/assets/5fa3f906-beb5-4687-82a2-039bd4f00474" />
+
