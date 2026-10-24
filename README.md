@@ -1,5 +1,5 @@
 # Columnas-calculadas-y-funciones-DAX
-del curos intermedio de power bi. Santander Open Academy
+del curso intermedio de power bi. Santander Open Academy
 
 Modelo de datos: Cursos
 <img width="1440" height="377" alt="WhatsApp Image 2026-10-19 at 4 19 37 PM (1)" src="https://github.com/user-attachments/assets/02e51424-cf34-4b2f-abe6-388235799580" />
